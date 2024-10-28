@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TCS**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **renprata@hotmail.com**
 
